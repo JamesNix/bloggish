@@ -11,6 +11,13 @@
 /db/*.sqlite3
 /db/*.sqlite3-journal
 
+blog_database_development
+blog_database_test
+
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+
+# Ignore images
+/images/*

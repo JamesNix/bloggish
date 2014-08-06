@@ -1,0 +1,11 @@
+.container
+  .row
+    .span4
+      h1
+        = @article.title
+      span= link_to 'Edit', edit_article_path(@article)
+      hr
+        .well
+          p
+            =@article.text
+        = link_to "Back", articles_path
