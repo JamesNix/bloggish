@@ -1,7 +1,7 @@
 class ArticlesController < ApplicationController
 
   def index
-    @articles = Article.all
+    @articles = Article.all.order("created_at DESC")
   end
 
   def new
@@ -32,6 +32,13 @@ class ArticlesController < ApplicationController
     else
       render 'edit'
     end
+  end
+
+  def destroy
+    @article = Article.find(params[:id])
+    @article.destroy
+
+    redirect_to articles_path
   end
 
 private
