@@ -1,10 +1,10 @@
 .container
   .row
     .span4
-      h1 New article
+      h1 Edit article
       hr
         .well
-          = form_for :article, url: articles_path do |f|
+          = form_for :article, url: article_path(@article), method: :patch do |f|
             - if @article.errors.any?
               #error_explanation
                 h4
@@ -16,7 +16,7 @@
                     li= msg
             p
               = f.label :title
-              = f.text_field :title, autofocus: 'true'
+              = f.text_field :title
 
             p
               = f.label :text
