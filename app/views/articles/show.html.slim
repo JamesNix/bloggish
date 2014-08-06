@@ -13,4 +13,13 @@
         .well
           p
             =@article.text
+          hr
+          h4 Comments
+          = render @article.comments
+
+          br
+
+          h5 Comment:
+          = render 'comments/form'
+
         = link_to "Back", articles_path
