@@ -13,6 +13,33 @@
  *= require_tree .
  *= require_self
  */
+@import url(http://fonts.googleapis.com/css?family=PT+Serif:700);
+
+
+body {
+  background-color: #BBCDDD;
+}
+
+.brand {
+  font-family: "PT Serif", serif;
+  letter-spacing: .5px;
+  a {
+    color: #D1CDCD;
+    text-shadow: 0 4px 0 #1150AF;
+  }
+  background-color: black;
+}
+
+.hed{
+  font-family: "PT Serif", serif;
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid #928E8E;
+}
 
 #new-article {
   color: black;
