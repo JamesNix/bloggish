@@ -3,6 +3,8 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.1'
+#For heroku deployment
+gem 'rails_12factor'
 # use postgres
 gem 'pg'
 #use slim-rails for templating engine
