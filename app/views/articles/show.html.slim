@@ -1,25 +1,28 @@
 .container
   .row
     .span4
-      h1
+      h1.hed
         = @article.title
-        h6= "Updated: " + pretty_time(@article.updated_at)
-      span= link_to 'Edit', edit_article_path(@article)
-      br
-      span= link_to 'Delete', article_path(@article),
-        method: :delete,
-        data: { confirm: 'Are you sure you want to delete this post?' }
       hr
         .well
+          h6= "Updated: " + pretty_time(@article.updated_at)
           p
             =@article.text
-          hr
-          h4 Comments
-          = render @article.comments
-
           br
+          span= link_to 'Edit', edit_article_path(@article)
+          span &nbsp
+          span(style="float: right")= link_to 'Delete', article_path(@article),
+            method: :delete,
+            data: { confirm: 'Are you sure you want to delete this post?' }
+          hr
+          button#show_comments Show comments
+          #comments_wrapper.hide
+            h4 Comments
+            = render @article.comments
 
-          h5 Comment:
-          = render 'comments/form'
+            br
+
+            h5 Comment:
+            = render 'comments/form'
 
         = link_to "Back", articles_path
