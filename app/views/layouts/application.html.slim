@@ -2,13 +2,14 @@ doctype html
 html
   head
     title Bloggish
+    meta content="width=device-width, initial-scale=1.0" name="viewport"
+    / link href="css/bootstrap.css" rel="stylesheet"
+    / link href="css/bootstrap-responsive.css" rel="stylesheet"
+    link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet"
     = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true
     = javascript_include_tag 'application', 'data-turbolinks-track' => true
-    meta content="width=device-width, initial-scale=1.0;" name="viewport"
-    link href="css/bootstrap.css" rel="stylesheet"
-    link href="css/bootstrap-responsive.css" rel="stylesheet"
-    link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet"
     = csrf_meta_tags
+
   body
     .navbar
       .navbar-inner
