@@ -1,6 +1,5 @@
 /*
- * This is a manifest file that'll be compiled into application.css, which will include all the files
- * listed below.
+ * This is a manifest file that'll be compiled into application.css, which will include all the files * listed below.
  *
  * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
  * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
@@ -34,6 +33,10 @@ body {
   font-family: "PT Serif", serif;
 }
 
+.well_wrapper {
+  width: 280px;
+}
+
 hr {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -43,4 +46,8 @@ hr {
 
 #new-article {
   color: black;
+}
+
+.invisible {
+  display: none;
 }

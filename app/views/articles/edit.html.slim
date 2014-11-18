@@ -1,7 +1,7 @@
 .container
   .row
-    .span4
-      h1 Edit article
+    .span4.well_wrapper
+      h1.hed Edit article
       hr
         .well
           = form_for :article, url: article_path(@article), method: :patch do |f|

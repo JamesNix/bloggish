@@ -1,6 +1,6 @@
 .container
   .row
-    .span4
+    .span4.well_wrapper
       h1.hed
         = @article.title
       hr
@@ -15,8 +15,8 @@
             method: :delete,
             data: { confirm: 'Are you sure you want to delete this post?' }
           hr
-          button#show_comments Show comments
-          #comments_wrapper.hide
+          button#toggle_comments Show comments
+          #comments_wrapper.invisible
             h4 Comments
             = render @article.comments
 

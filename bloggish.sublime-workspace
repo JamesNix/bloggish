@@ -1,0 +1,404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"true",
+				"true"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"weath",
+				"weatherIconBox"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"weather",
+				"weatherModal"
+			],
+			[
+				"te",
+				"temperature_string"
+			],
+			[
+				"get",
+				"getLocation"
+			],
+			[
+				"bottom",
+				"bottom-nav"
+			],
+			[
+				"container",
+				"container-mobile"
+			],
+			[
+				"bottom-",
+				"bottom-nav"
+			],
+			[
+				"top",
+				"top-nav"
+			],
+			[
+				"top-nav",
+				"top-nav-mobile"
+			],
+			[
+				"top-na",
+				"top-nav-mobile"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"selected_items":
+		[
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"gitsta",
+				"Git: Quick Status"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"mete",
+				"Snippet: Meteor.user()"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ruby ",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"AngularJS: Toggle - Disable Built-in Directive Completions"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"gru",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"grunt ",
+				"Preferences: Grunt - Settings – User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 710.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jamesnix/Documents/Code/ruby/bloggish/bloggish",
+		"/Users/jamesnix/Documents/Code/cards/cards.js",
+		"/Users/jamesnix/Documents/Code/cards/cards.html",
+		"/Users/jamesnix/Documents/Code/cards/cards.css",
+		"/Users/jamesnix/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jamesnix/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/jamesnix/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/local/build/main.js",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/local/build/programs/server/node_modules/http-proxy/node_modules/eventemitter3/benchmarks/run/multiple-emitters.js",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/local/build/programs/server/node_modules/node-inspector/front-end/Images/src/statusbarButtonGlyphs.svg",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/node_modules/cordova-js/node_modules/browserify/node_modules/browser-resolve/test/fixtures/node_modules/override-engine-shim/url-browser.js",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/local/build/programs/server/node_modules/node-inspector/front-end/ResourceUtils.js",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/release",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/packages",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/local/build/programs/server/node_modules/node-inspector/lib/PageAgent.js",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/local/build/programs/web.browser/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/node_modules/npm/test/packages/npm-test-ignore-nested-nm/package.json",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/spec-plugman/projects/windows8/package.appxmanifest",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/local/build/programs/server/packages/insecure.js",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/local/build/programs/server/node_modules/jsdoc/package.json.orig",
+		"/Users/jamesnix/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/local/build/programs/server/packages/application-configuration.js",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/node_modules/npm/node_modules/read-package-json/node_modules/normalize-package-data/node_modules/github-url-from-git/History.md",
+		"/Users/jamesnix/Documents/Code/cards/.meteor/local/build/programs/server/packages/check.js",
+		"/Users/jamesnix/Documents/Code/angular-inventory/client/index.js",
+		"/Users/jamesnix/Documents/Code/angular-inventory/public/vendor/bootstrap/less/mixins/table-row.less",
+		"/Users/jamesnix/Documents/Code/angular-inventory/node_modules/grunt/node_modules/underscore.string/test/strings_standalone.js",
+		"/Users/jamesnix/Documents/Code/angular-inventory/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/import-no-semi.txt",
+		"/Users/jamesnix/Documents/Code/angular-inventory/node_modules/grunt-jscs/node_modules/jscs/node_modules/xmlbuilder/node_modules/lodash-node/compat/internals/isNative.js",
+		"/Users/jamesnix/Documents/Code/angular-inventory/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/import-no-semi.less",
+		"/Users/jamesnix/Documents/Code/angular-inventory/npm-debug.log",
+		"/Users/jamesnix/Documents/Code/ruby/koans/about_hashes.rb",
+		"/Users/jamesnix/Documents/Code/ruby/koans/about_arrays.rb",
+		"/Users/jamesnix/Documents/Code/ruby/koans/about_objects.rb",
+		"/Users/jamesnix/Documents/Code/ruby/koans/about_blocks.rb",
+		"/Users/jamesnix/Documents/Code/ruby/koans/triangle.rb",
+		"/Users/jamesnix/Documents/Code/ruby/koans/path_to_enlightenment.rb",
+		"/Users/jamesnix/Documents/Code/ruby/koans/about_exceptions.rb",
+		"/Users/jamesnix/Documents/Code/ruby/koans/about_control_statements.rb",
+		"/Users/jamesnix/Documents/Code/ruby/koans/koans",
+		"/Users/jamesnix/Documents/Code/angular-phonecat/test/unit/controllersSpec.js",
+		"/Users/jamesnix/Documents/Code/angular-phonecat/app/index.html",
+		"/Users/jamesnix/Documents/Code/angular-phonecat/test/e2e/scenarios.js",
+		"/Users/jamesnix/Documents/Code/angular-phonecat/node_modules/bower/node_modules/insight/node_modules/inquirer/node_modules/rx/src/core/enumeratorheader.js",
+		"/Users/jamesnix/Documents/Code/angular-phonecat/app/bower_components/bootstrap/test-infra/s3_cache.py",
+		"/Users/jamesnix/Documents/Code/angular-phonecat/node_modules/.bin/shjs",
+		"/Users/jamesnix/Documents/Code/angular-phonecat/node_modules/bower/node_modules/mout/lang/isNull.js",
+		"/Users/jamesnix/Documents/Code/angular-phonecat/node_modules/bower/node_modules/mout/math/isNear.js",
+		"/Users/jamesnix/Documents/Code/angular-phonecat/node_modules/protractor/example/chromeOnlyConf.js",
+		"/Users/jamesnix/Documents/Code/angular-phonecat/app/js/app.js",
+		"/Users/jamesnix/Documents/Code/angular-phonecat/app/bower_components/jquery/.editorconfig",
+		"/Users/jamesnix/Documents/Code/angular-phonecat/app/css/app.css",
+		"/Users/jamesnix/Documents/Code/angular-phonecat/node_modules/http-server/node_modules/union/node_modules/pkginfo/examples/all-properties.js",
+		"/Users/jamesnix/Documents/Code/angular-phonecat/angular-phonecat",
+		"/Users/jamesnix/Documents/Code/quiktask/client/views/priorities/priorities.jade",
+		"/Users/jamesnix/Documents/Code/quiktask/client/components/priority.js",
+		"/Users/jamesnix/Documents/Code/quiktask/server/models/priority.js",
+		"/Users/jamesnix/Documents/Code/quiktask/server/controllers/priorities.js",
+		"/Users/jamesnix/Documents/Code/quiktask/public/components/priority.js",
+		"/Users/jamesnix/Documents/Code/quiktask/node_modules/grunt/node_modules/glob/test/pause-resume.js",
+		"/Users/jamesnix/Documents/Code/quiktask/package.json",
+		"/Users/jamesnix/Downloads/cfa_pharm_data.json",
+		"/Users/jamesnix/Documents/Coding/youtube/app/css/app.less",
+		"/Users/jamesnix/Documents/Coding/youtube/app/index.jade",
+		"/Users/jamesnix/Documents/Coding/youtube/app/js/source/search.js",
+		"/Users/jamesnix/Documents/Coding/final-bootstrap/client/app/js/source/main.js",
+		"/Users/jamesnix/Documents/Coding/final-bootstrap/client/app/css/app.less",
+		"/Users/jamesnix/Documents/Coding/final-bootstrap/client/app/index.jade",
+		"/Users/jamesnix/Library/Application Support/Sublime Text 3/Packages/User/SublimeGrunt.sublime-settings",
+		"/Users/jamesnix/Documents/Coding/final-bootstrap/client/app/contact.jade",
+		"/Users/jamesnix/Documents/Coding/final-bootstrap/client/app/css/app-small.less",
+		"/Users/jamesnix/Library/Application Support/Sublime Text 3/Packages/Grunt/SublimeGrunt.sublime-settings",
+		"/Users/jamesnix/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/jamesnix/Desktop/bootstrap/js/bootstrap.js",
+		"/Users/jamesnix/Desktop/bootstrap/js/bootstrap.min.js",
+		"/Users/jamesnix/Desktop/Hover-master/css/hover.css",
+		"/Users/jamesnix/Documents/Coding:Web/JNWebsite/index.html",
+		"/Users/jamesnix/Desktop/bootstrap/config.json",
+		"/Users/jamesnix/Desktop/final-bootstrap from server/app/js/source/main.js",
+		"/Users/jamesnix/Desktop/final-bootstrap from server/app/css/app.less",
+		"/Users/jamesnix/Desktop/final-bootstrap from server/app/index.jade",
+		"/Users/jamesnix/Desktop/index.html",
+		"/Users/jamesnix/Desktop/index.jade",
+		"/Users/jamesnix/Projects/client-template/app/js/source/main.js",
+		"/Users/jamesnix/Projects/client-template/app/index.jade",
+		"/Users/jamesnix/VirtualBox VMs/VM FTP files/Mad Libs/app/index.jade",
+		"/Users/jamesnix/VirtualBox VMs/VM FTP files/Mad Libs/app/js/source/main.js",
+		"/Users/jamesnix/VirtualBox VMs/VM FTP files/Memory-Lodash/app/js/source/main.js",
+		"/Users/jamesnix/Desktop/Software for NSS/Ubuntu Server 13.10 x64.vdi"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"assests",
+			"hover"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "bloggish.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"cards.js"
+			],
+			[
+				"install",
+				"public/vendor/bootstrap/less/mixins/table-row.less"
+			],
+			[
+				"abouth",
+				"about_hashes.rb"
+			],
+			[
+				"scena",
+				"test/e2e/scenarios.js"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"controll",
+				"test/unit/controllersSpec.js"
+			],
+			[
+				"app.js",
+				"app/js/app.js"
+			],
+			[
+				"prio",
+				"client/views/priorities/priorities.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 288.0,
+		"selected_items":
+		[
+		],
+		"width": 701.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
